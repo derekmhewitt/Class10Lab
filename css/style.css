@@ -13,19 +13,21 @@ header {
   background-color: #2D2D2D;
 }
 
-a {
+.nav a {
   color: #878787;
   text-decoration: none;
 }
 
-header div {
+header div div {
   background-color: #000;
-
 }
 
-.nav-active {
+.nav-active div {
   height: 10px;
   width: 90px;
+  float: left;
+  display: inline;
+
 }
 
 .inner-header {
@@ -37,6 +39,7 @@ header div {
   float: left;
   display: inline-block;
   margin: 0 20px;
+  margin-top: 20px;
 }
 
 .social-icons li {
@@ -44,6 +47,21 @@ header div {
   display: inline-block;
   margin: 0 20px;
 }
+
+.social-icons li a img {
+    margin-top: 10px;
+    height: 35px;
+}
+
+body {
+  width: 850px;
+  margin: 0 auto;
+}
+
 footer  {
   color: #2d2d2d;
+}
+
+.clearfix {
+  clear: both;
 }
