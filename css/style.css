@@ -1,0 +1,49 @@
+/*Base Styles*/
+body {
+  font-family: Helvetica;
+  font-weight: 100;
+  background-color: #eaeaea;
+  color: #ffffff;
+}
+
+header {
+  font-family: "Droid Sans";
+  font-weight: bold;
+  height: 80px;
+  background-color: #2D2D2D;
+}
+
+a {
+  color: #878787;
+  text-decoration: none;
+}
+
+header div {
+  background-color: #000;
+
+}
+
+.nav-active {
+  height: 10px;
+  width: 90px;
+}
+
+.inner-header {
+  width: 850px;
+  margin: 0 auto;
+}
+
+.nav li {
+  float: left;
+  display: inline-block;
+  margin: 0 20px;
+}
+
+.social-icons li {
+  float: right;
+  display: inline-block;
+  margin: 0 20px;
+}
+footer  {
+  color: #2d2d2d;
+}
