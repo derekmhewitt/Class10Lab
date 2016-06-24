@@ -1,16 +1,4 @@
-# Class10Lab
-CodeFellows 201 Class 10 Lab Group Project
-
-Credit for Reset Style Sheet:
-http://meyerweb.com/eric/tools/css/reset/
-   v2.0 | 20110126
-   License: none (public domain)
-
- Droid Sans bold taken from google fonts
- https://www.google.com/fonts#UsePlace:use/Collection:Droid+Sans
-
-
-Social Media Icons: obtained from Iconfinder.com
+Social media icons obtained from Iconfinder.com
 
 Facebook: 'free for commercial use'
 https://www.iconfinder.com/icons/107117/facebook_square_icon#size=128
