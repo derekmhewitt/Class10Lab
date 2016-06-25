@@ -1,3 +1,13 @@
 .about-active {
   background-color: #e00000;
 }
+
+main section {
+  margin-top: 20px;
+}
+
+main section section {
+  display: inline-block;
+  width: 45%;
+  line-height;
+}
