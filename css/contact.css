@@ -1,3 +1,22 @@
 .contact-active {
   background-color: #e00000;
 }
+
+section {
+ position: relative;
+}
+
+section div {
+  border: 7px solid white;
+  position: absolute;
+  top: 0;
+  margin-left: 140px;
+  margin-top: 150px;
+}
+
+section h1 {
+  font-size: 52px;
+  font-weight: bold;
+  padding: 60px 150px;
+  letter-spacing: 3px;
+}
