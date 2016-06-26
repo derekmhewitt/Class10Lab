@@ -13,7 +13,7 @@ h1 {
   text-align: center;
   font-size: 32px;
   position:relative;
-  top: 20px;
+  top: 25px;
   right: 20px;
   margin-top: 20px;
 }
@@ -29,11 +29,16 @@ footer {
   margin-top: 10px;
 }
 
+img {
+
+}
+
 main section {
   margin-top: 20px;
   line-height: 20px;
   background-color: #2d2d2d;
-  height: auto;
+  height: 800px;
+
 }
 
 
@@ -42,8 +47,15 @@ main section section {
   width: 45%;
   line-height: 20px;
   font-size: 18px;
+  height: 700px
 }
 
+hr {
+  position: relative;
+  top: 30px;
+
+
+}
 #author {
   padding: 10px;
 }
@@ -54,5 +66,10 @@ main section section {
 }
 
 #poem_2 {
+
+}
+
+#mainSection {
+
 
 }
