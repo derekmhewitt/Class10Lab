@@ -2,12 +2,57 @@
   background-color: #e00000;
 }
 
-main section {
+p {
+  padding: 10px;
+  position: relative;
+  top: 30px;
+  left: 50px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 32px;
+  position:relative;
+  top: 20px;
+  right: 20px;
   margin-top: 20px;
 }
+
+section {
+  height: 750px;
+}
+
+footer {
+  background-color: #000000;
+  color: white;
+  text-align: center;
+  margin-top: 10px;
+}
+
+main section {
+  margin-top: 20px;
+  line-height: 20px;
+  background-color: #2d2d2d;
+  height: auto;
+}
+
 
 main section section {
   display: inline-block;
   width: 45%;
-  line-height;
+  line-height: 20px;
+  font-size: 18px;
+}
+
+#author {
+  padding: 10px;
+}
+
+#poem_1 {
+  margin-right: 30px;
+
+}
+
+#poem_2 {
+
 }
