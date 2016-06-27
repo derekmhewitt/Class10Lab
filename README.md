@@ -23,3 +23,6 @@ https://www.iconfinder.com/icons/381384/instagram_logo_icon#size=128
 
 LinkedIn: Creative Commons 3.0 Unported license
 https://www.iconfinder.com/icons/771369/linkedin_logo_media_network_share_social_square_icon#size=128
+
+Code technique for underlines on index.html found here, credit goes to Gray Gilmore:
+http://codepen.io/graygilmore/pen/39bda748ab009f4ae285cbcbe73772b9/
