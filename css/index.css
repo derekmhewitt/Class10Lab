@@ -26,9 +26,69 @@ Footer: #2D2D2D*/
 .bigkitty_box {
   position: relative
 }
+.slider_circle {
+  position: absolute;
+  padding-left: 345px;
+  margin-top: -40px;
+}
+
+.slider_circles {
+  margin: 0px auto;
+  border: 2px solid #ffffff;
+  color: transparent;
+  border-radius: 100%;
+  height: 20px;
+  width: 20px;
+  display: inline-block;
+}
+
+#first_circle {
+  background: #ffffff;
+}
+
+h2 {
+  margin-top: 70px;
+  font-size: 30px;
+  text-align: center;
+}
+
+h2:after {
+  content: '';
+  display: block;
+  background: #ffffff;
+  height: 2px;
+  max-width: 140px;
+  width: 100%;
+  margin: 10px auto;
+}
+
+.baskets_transparent {
+  position: absolute;
+  font-size: 20px;
+  background: #3a3a3a;
+  opacity: .7;
+  height: 500px;
+  width: 300px;
+}
+
+.baskets_transparent p {
+  font-size: 22px;
+  padding: 15px;
+}
+.more_box {
+  background: #e00000;
+  width: 120px;
+  margin: 20px auto;
+  padding: 10px 30px;
+}
+
+.more_box p {
+  text-align: center;
+  font-size: 26px
+}
 
 h1 {
-  color: #3a3a3a;
+  color: #000000;
   font-size: 24px;
   text-align: center;
   padding-top: 20px;
@@ -37,7 +97,7 @@ h1 {
 h1:after {
   content: '';
   display: block;
-  background: #3a3a3a;
+  background: #000000;
   height: 2px;
   max-width: 140px;
   width: 100%;
@@ -58,6 +118,15 @@ article h3 {
   font-size: 24px;
 }
 
+article h3:after {
+  content:'';
+  display: block;
+  background: #ffffff;
+  height: 2px;
+  max-width: 130px;
+  width: 100%;
+  margin: 10px 440px;
+}
 article p {
   font-size: 20px;
 }
