@@ -35,7 +35,6 @@ footer {
   padding: 20px;
   margin: 20px auto;
   height: 15px;
-  width: 66.5%;
   text-align: center;
 }
 
@@ -44,7 +43,6 @@ main section {
   line-height: 20px;
   background-color: #2d2d2d;
   height: 800px;
-
 }
 
 
@@ -59,23 +57,12 @@ main section section {
 hr {
   position: relative;
   top: 30px;
-
-
 }
+
 #author {
   padding: 10px;
 }
 
 #poem_1 {
   margin-right: 30px;
-
-}
-
-#poem_2 {
-
-}
-
-#mainSection {
-
-
 }
