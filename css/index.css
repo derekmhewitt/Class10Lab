@@ -26,6 +26,7 @@ Footer: #2D2D2D*/
 .bigkitty_box {
   position: relative
 }
+
 .slider_circle {
   position: absolute;
   padding-left: 345px;
@@ -65,8 +66,7 @@ h2:after {
 .baskets_transparent {
   position: absolute;
   font-size: 20px;
-  background: #3a3a3a;
-  opacity: .7;
+  background: rgba(58,58,58,.7);
   height: 500px;
   width: 300px;
 }
@@ -76,7 +76,7 @@ h2:after {
   padding: 15px;
 }
 .more_box {
-  background: #e00000;
+  background: rgba(224,0,0,1);
   width: 120px;
   margin: 20px auto;
   padding: 10px 30px;
@@ -84,7 +84,8 @@ h2:after {
 
 .more_box p {
   text-align: center;
-  font-size: 26px
+  font-size: 26px;
+  font-weight: bold;
 }
 
 h1 {
